@@ -2,10 +2,10 @@
 
 **Cyber Security student — Politeknik Caltex Riau, Teknologi Rekayasa Komputer (TRK)**
 
-I build defensive security tools and learn by breaking things down in the lab, then rebuilding them properly. My focus is network security, phishing detection, IoT security, and applied machine learning.
+I build defensive security tools and learn by breaking things down in the lab, then rebuilding them properly. My focus is network security, phishing detection, web security, IoT security, and applied machine learning.
 
 - 🎓 Politeknik Caltex Riau — Teknologi Rekayasa Komputer, Class 3 TRK A
-- 🛡️ Focus: Cyber Security, Network Security, SOC / Detection
+- 🛡️ Focus: Cyber Security, Network Security, SOC / Detection, Web Security
 - 🐍 I work mostly in Python, with Flask, scikit-learn, and ESP32 / MQTT for IoT
 - 📍 Pekanbaru, Indonesia
 
@@ -14,10 +14,10 @@ I build defensive security tools and learn by breaking things down in the lab, t
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [phishing-url-detector-ai](https://github.com/RaihanPratama-cyber/phishing-url-detector-ai) | Web app that checks a URL with 16 features, a rule engine and Logistic Regression — and explains why. Catches the EC Council Lab 2 phishing example `end-authenticat.tftpd.net` as Phishing (score 62.1). | Python, Flask, scikit-learn |
-| [safe-inbox-guardian](https://github.com/RaihanPratama-cyber/safe-inbox-guardian) | Checks a NAS inbox for phishing-style files, explains the risk with evidence, and quarantines only what you approve. Built for the UGREEN Hackathon 2026 on AI NAS. | Python, Muse Skill |
+| [soc-dashboard-network-intrusion-detector](https://github.com/RaihanPratama-cyber/soc-dashboard-network-intrusion-detector) | SOC dashboard that detects MAC flooding, DHCP starvation, ARP poisoning, and port scans, with alerts, logs, and graphs. Built from my WKJ labs (macof, yersinia, Cain & Abel). | Python, Flask |
+| [web-vulnerability-scanner](https://github.com/RaihanPratama-cyber/web-vulnerability-scanner) | Scans a website for missing security headers, insecure cookies, reflected XSS, SQL error probes, and exposed `.git` / `.env` files, with a risk score, evidence, and fix advice. OWASP Top 10 mapped. | Python, Flask, requests |
+| [safe-inbox-guardian](https://github.com/RaihanPratama-cyber/safe-inbox-guardian) | Checks a NAS inbox for phishing-style files, explains the risk with evidence, and quarantines only what you approve. Built for the UGREEN Hackathon 2026 on AI NAS — Round 1 submitted. | Python, Muse Skill |
 | [jagasehat](https://github.com/RaihanPratama-cyber/jagasehat) | Android app for family health monitoring — health records, reminders, articles, charts per family, and report export. | Kotlin, Jetpack Compose, Room |
-
-**Coming soon:** SOC Dashboard — Network Intrusion Detector (MAC flooding, DHCP starvation, ARP poisoning, and port scan detection, with a real-time dashboard, logs, and alerts).
 
 ## 🧪 What I'm learning in the lab
 
